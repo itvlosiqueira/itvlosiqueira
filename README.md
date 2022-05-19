@@ -1,6 +1,6 @@
  oi, sou o Ítalo!
 - Cursando Análise e Desenvolvimento de Sistemas
-- Atualmente estou aprendendo JavaScript, TypeScript, ReactJS e Python
+- Atualmente estou aprendendo Java, JavaScript, TypeScript, ReactJS e Python
 - XD
 <div align="center">
   <a href="https://github.com/itvlosiqueira">
